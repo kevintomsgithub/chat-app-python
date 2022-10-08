@@ -18,7 +18,8 @@ flask --app main run
 NOTE: `main` being the file name ```main.py```
 
 ## Accessing the Application
-* Go to `http://localhost:5000` in any web browser
+* Go to `http://localhost:5000` or `http://127.0.0.1:5000` in any web browser. If the url didn't work 
+  then you can open the file `index.html` under templates.
 * Similarly open couple other tabs with the same URL mentioned above
 
 ## Result
